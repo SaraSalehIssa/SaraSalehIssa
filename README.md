@@ -27,7 +27,7 @@ I'm a computer Engineering student at Birzeit University - Palestine.
 </details>
 
 <br/>
-<h2 align="center">Let's Connect <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60"></h2>
+<h2 align="center">Let's Connect <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70"></h2>
 <p align="center">
    <a href = "mailto:issasalehsara2001@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height = 30></a>
   <a href = "https://www.linkedin.com/in/sara-issa-a2b730238/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height = 30></a>
