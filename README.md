@@ -26,6 +26,8 @@ I'm a computer Engineering student at Birzeit University - Palestine.
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SaraSalehIssa&title_color=2257EA&bg_color=f7f7f7&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+
 <details>
   <summary>:zap: Languages Used</summary>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraSalehIssa&layout=compact&bg_color=ffffff&text_color=333333">
