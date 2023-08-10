@@ -35,7 +35,7 @@ I'm a computer Engineering student at Birzeit University - Palestine.
 </p>
 
 <br/>
-<h2 align="center">Visitors 👀</h2>
+<h2 align="center">Visitors <img src="https://www.flaticon.com/free-animated-icon/eye_10606650?term=eye&page=1&position=4&origin=search&related_id=10606650">👀</h2>
 <div align="center" >
   <img src="https://profile-counter.glitch.me/SaraSalehIssa/count.svg"></img>
 </div>
