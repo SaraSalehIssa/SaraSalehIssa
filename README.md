@@ -26,15 +26,20 @@ I'm a computer Engineering student at Birzeit University - Palestine.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraSalehIssa&layout=compact&bg_color=ffffff&text_color=333333">
 </details>
 
-<br/><br/>
+<br/>
 <h2 align="center">Let's Connect 😎</h2>
 <p align="center">
    <a href = "mailto:issasalehsara2001@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height = 30></a>
   <a href = "https://www.linkedin.com/in/sara-issa-a2b730238/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height = 30></a>
 </p>
 
-<br/><br/>
+<br/>
 <h2 align="center">Visitors 👀</h2>
 <div align="center" >
   <img src="https://profile-counter.glitch.me/SaraSalehIssa/count.svg"></img>
 </div>
+
+<br/>
+<p>
+  <img src="https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif" /><br>
+</p>
