@@ -31,7 +31,7 @@ I'm a computer Engineering student at Birzeit University - Palestine.
 <p align="center">
   <a href = "https://www.linkedin.com/in/sara-issa-a2b730238/"><img src = "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height = 30></a>
   <a href = "mailto:issasalehsara2001@gmail.com"><img src = "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height = 30></a>
-  <a href = "#"><img src = "https://img.shields.io/badge/facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white" height = 30</a>
+  <a href = "https://www.facebook.com/sara.issa.5895"><img src = "https://img.shields.io/badge/facebook-0077B5?style=for-the-badge&logo=facebook&logoColor=white" height = 30</a>
 </p>
 
 <br/>
