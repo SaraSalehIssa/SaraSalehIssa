@@ -23,10 +23,14 @@ I'm a computer Engineering student at Birzeit University - Palestine.
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 ![render](https://img.shields.io/badge/-render-222222?style=flat&logo=render)
 
-<details>
-  <summary>:zap: Languages Used</summary>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaraSalehIssa&layout=compact&bg_color=ffffff&text_color=333333">
-</details>
+<h2 align="center">Quick Overview 📈</h2>  
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=SaraSalehIssa&count_private=true&theme=radical&hide_border=true" alt = "SaraSalehIssa's Contribution" width = 400 >
+  <img src = "https://github-readme-streak-stats.herokuapp.com?user=SaraSalehIssa&count_private=true&theme=radical&hide_border=true" alt = "SaraSalehIssa's Rating" width = 400 >
+</p>
+<p align = "center">
+ <img src = "https://github-readme-stats.vercel.app/api/top-langs?username=SaraSalehIssa&show_icons=true&count_private=true&locale=en&layout=compact&langs_count=10&t&hide_border=true&bg_color=282A36&title_color=DD6387&text_color=fff&icon_color=fff" alt = "SaraSalehIssa's Languages/Frameworks" width = 400 />
+</p>
 
 <br/>
 <h2 align="center">Let's Connect <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70"></h2>
