@@ -22,8 +22,8 @@ I'm a computer Engineering student at Birzeit University - Palestine.
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 ![render](https://img.shields.io/badge/-render-222222?style=flat&logo=render)
-![VisualStudioCode](https://img.shields.io/badge/-VS%20Code-222222?style=flat&logo=VisualStudioCode&logoColor=FCC624)
-![VisualStudio](https://img.shields.io/badge/-VS%20-222222?style=flat&logo=VisualStudio)
+![VisualStudioCode](https://img.shields.io/badge/-VS%20Code-222222?style=flat&logo=VisualStudioCode&logoColor=1E90FF)
+![VisualStudio](https://img.shields.io/badge/-VS%20-222222?style=flat&logo=VisualStudio&logoColor=8A2BE2)
 
 <h2 align="center">Quick Overview 📈</h2>  
 <p align = "center">
