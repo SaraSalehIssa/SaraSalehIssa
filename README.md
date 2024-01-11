@@ -16,12 +16,14 @@ I'm a computer Engineering student at Birzeit University - Palestine.
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
 ![SQL](https://img.shields.io/badge/-SQL-000000?style=flat&logo=postgresql)
 
-##### Some of the technologies I have worked with
+##### Some of the technologies and tools I have worked with
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
 ![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
 ![render](https://img.shields.io/badge/-render-222222?style=flat&logo=render)
+![VisualStudioCode](https://img.shields.io/badge/-VS%20Code-222222?style=flat&logo=VisualStudioCode)
+![VisualStudio](https://img.shields.io/badge/-VS%20Code-222222?style=flat&logo=VisualStudio)
 
 <h2 align="center">Quick Overview 📈</h2>  
 <p align = "center">
