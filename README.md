@@ -11,11 +11,12 @@ I'm a computer Engineering student at Birzeit University - Palestine.
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+    <img src="https://camo.githubusercontent.com/0d137e4fe2c601de4d954c4868578e437bdd8f42fa80a6b7d49f5353c0143ac3/68747470733a2f2f7374617469632d30302e69636f6e6475636b2e636f6d2f6173736574732e30302f632d73686172702d632d69636f6e2d3138323278323034382d77756633696a61622e706e67" alt="C#" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    <img src="https://camo.githubusercontent.com/92ea2ae329c080e1d851d6ad12aeb4ca15a814f980e742318ec3ae1262249926/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d63" alt="python" width="40" height="40"/>
+    <img src="https://camo.githubusercontent.com/92ea2ae329c080e1d851d6ad12aeb4ca15a814f980e742318ec3ae1262249926/68747470733a2f2f736b696c6c69636f6e732e6465762f69636f6e733f693d63" alt="C" width="40" height="40"/>
   </p>
 
 ##### Some of the technologies and tools I have worked with
