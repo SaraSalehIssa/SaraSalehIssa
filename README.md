@@ -23,10 +23,12 @@ I'm a computer Engineering student at Birzeit University - Palestine.
 
 ![Git](https://img.shields.io/badge/-Git-222222?style=flat&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/-GitHub-222222?style=flat&logo=github&logoColor=181717)
-![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
-![render](https://img.shields.io/badge/-render-222222?style=flat&logo=render)
 ![VisualStudioCode](https://img.shields.io/badge/-VS%20Code-222222?style=flat&logo=VisualStudioCode&logoColor=1E90FF)
 ![VisualStudio](https://img.shields.io/badge/-VS%20-222222?style=flat&logo=VisualStudio&logoColor=8A2BE2)
+![Arduino](https://img.shields.io/badge/-Arduino%20-222222?style=flat&logo=Arduino&logoColor=00979C)
+![Android](https://img.shields.io/badge/-Android%20-222222?style=flat&logo=Android&logoColor=3DDC84)
+![Linux](https://img.shields.io/badge/-Linux-222222?style=flat&logo=linux&logoColor=FCC624)
+![render](https://img.shields.io/badge/-render-222222?style=flat&logo=render)
 
 <h2 align="center">Quick Overview <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = "32"></h2>  
 <p align = "center">
